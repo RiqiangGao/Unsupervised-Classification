@@ -1,2 +1,1 @@
-# Unsupervised-Classification
-Learning To Classify Images Without Labels
+# Learning To Classify Images Without Labels
